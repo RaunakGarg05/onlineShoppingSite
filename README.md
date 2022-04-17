@@ -10,8 +10,6 @@
     <a href="https://github.com/RaunakGarg05/onlineShoppingSite/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RaunakGarg05/onlineShoppingSite/blob/main/README.md#usage">View Demo</a>
-    ·
     <a href="https://github.com/RaunakGarg05/onlineShoppingSite/issues">Report Bug</a>
     ·
     <a href="https://github.com/RaunakGarg05/onlineShoppingSite/issues">Request Feature</a>
