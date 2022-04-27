@@ -6,15 +6,7 @@
 
   <p align="center">
     Shopify facilitates users to buy the products and can add their products also.
-    <br />
-    <a href="https://github.com/RaunakGarg05/onlineShoppingSite/blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/RaunakGarg05/onlineShoppingSite/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/RaunakGarg05/onlineShoppingSite/issues">Request Feature</a>
-  </p>
-</p>
+    
 
 
 
