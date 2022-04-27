@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Shopify - Buying and Selling Marketplace</h3>
+  <h3 align="center">Buying and Selling Marketplace</h3>
 
   <p align="center">
     Shopify facilitates users to buy the products and can add their products also.
